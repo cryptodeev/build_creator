@@ -5,3 +5,5 @@ async def create_print(info):
     print(text)
 
 asyncio.run(create_print(['sup', 'everyone']))
+
+print('thanks for using')
